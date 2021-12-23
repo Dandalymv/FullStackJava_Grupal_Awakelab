@@ -1,8 +1,10 @@
 # FullStackJava_Grupal_Awakelab
  
-Integrantes:   
-     Dandaly Morales
-     Victor Retamal
+Integrantes:  
+
+-Dandaly Morales
+
+-Victor Retamal
 
 Descripcion del Proyecto:
 
